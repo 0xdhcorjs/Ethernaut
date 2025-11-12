@@ -58,4 +58,3 @@ cast send <TOKEN_ADDRESS> \
 
 ---
 
-(작성자: 사용자 제출 내용 요약 및 재구성)
